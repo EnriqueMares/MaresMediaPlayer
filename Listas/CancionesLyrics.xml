@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<ArrayOfCancion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cancion>
+    <Nombre>A Medio Camino</Nombre>
+    <Artista>Eros Ramazzotti</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>Todo Historias</Album>
+    <Ruta_Artista>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Artistas\Eros Ramazzotti.jpg</Ruta_Artista>
+    <Ruta_Disco>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Caratulas\Todo Historias.jpg</Ruta_Disco>
+    <Ruta_Letra>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Lyrics\A medio Camino.xml</Ruta_Letra>
+    <Ruta_Cancion>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Canciones\A Medio Camino.mp3</Ruta_Cancion>
+    <Ruta_Biografia>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Biografias\Eros Ramazzotti.txt</Ruta_Biografia>
+  </Cancion>
+  <Cancion>
+    <Nombre>_Marco Antonio Solis_ _Marc Anthony_ Amigo</Nombre>
+    <Artista>Laura Pausini</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>Amar sin Mentiras</Album>
+    <Ruta_Artista>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Artistas\Laura Pausini.jpg</Ruta_Artista>
+    <Ruta_Disco>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Caratulas\Amar sin Mentiras.jpg</Ruta_Disco>
+    <Ruta_Letra>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Lyrics\Amigo.xml</Ruta_Letra>
+    <Ruta_Cancion>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Canciones\_Marco Antonio Solis_ _Marc Anthony_ Amigo.mp3</Ruta_Cancion>
+    <Ruta_Biografia>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Biografias\Laura Pausini.txt</Ruta_Biografia>
+  </Cancion>
+  <Cancion>
+    <Nombre>_Eros Ramazzotti_A Ti</Nombre>
+    <Artista>Eros Ramazzotti</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>Quien Dijo Ayer</Album>
+    <Ruta_Artista>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Artistas\Eros Ramazzotti.jpg</Ruta_Artista>
+    <Ruta_Disco>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Caratulas\Quien Dijo Ayer.jpg</Ruta_Disco>
+    <Ruta_Letra>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Lyrics\A ti.xml</Ruta_Letra>
+    <Ruta_Cancion>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Canciones\_Eros Ramazzotti_A Ti.mp3</Ruta_Cancion>
+    <Ruta_Biografia>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Biografias\Eros Ramazzotti.txt</Ruta_Biografia>
+  </Cancion>
+  <Cancion>
+    <Nombre>Cancion para Ella</Nombre>
+    <Artista>Eros Ramazzotti</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>9</Album>
+    <Ruta_Artista>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Artistas\Eros Ramazzotti.jpg</Ruta_Artista>
+    <Ruta_Disco>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Caratulas\9.bmp</Ruta_Disco>
+    <Ruta_Letra>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Lyrics\Cancion para ella.xml</Ruta_Letra>
+    <Ruta_Cancion>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Canciones\Cancion para Ella.mp3</Ruta_Cancion>
+    <Ruta_Biografia>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Biografias\Eros Ramazzotti.txt</Ruta_Biografia>
+  </Cancion>
+  <Cancion>
+    <Nombre>cuanto amor me das</Nombre>
+    <Artista>Eros Ramazzotti</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>Eros</Album>
+    <Ruta_Artista>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Artistas\Eros Ramazzotti.jpg</Ruta_Artista>
+    <Ruta_Disco>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Caratulas\Eros.jpg</Ruta_Disco>
+    <Ruta_Letra>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Lyrics\Cuanto amor me das.xml</Ruta_Letra>
+    <Ruta_Cancion>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Canciones\cuanto amor me das.mp3</Ruta_Cancion>
+    <Ruta_Biografia>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Biografias\Eros Ramazzotti.txt</Ruta_Biografia>
+  </Cancion>
+</ArrayOfCancion>

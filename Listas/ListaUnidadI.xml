@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<ArrayOfCancion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cancion>
+    <Nombre>La Cosa Mas Bella</Nombre>
+    <Artista>Eros Ramazzotti</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>Donde hay Musica</Album>
+    <Ruta_Artista>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Artistas\Eros Ramazzotti.jpg</Ruta_Artista>
+    <Ruta_Disco>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Caratulas\Donde hay Musica.jpg</Ruta_Disco>
+    <Ruta_Letra>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Lyrics\Cosa mas Bella.xml</Ruta_Letra>
+    <Ruta_Cancion>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Canciones\Eros Ramazzotti - La Cosa Mas Bella.mp3</Ruta_Cancion>
+  </Cancion>
+  <Cancion>
+    <Nombre>Yo Canto</Nombre>
+    <Artista>Laura Pausini</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>Yo Canto</Album>
+    <Ruta_Artista>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Artistas\Laura Pausini.jpg</Ruta_Artista>
+    <Ruta_Disco>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Caratulas\Yo Canto.jpg</Ruta_Disco>
+    <Ruta_Letra>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Lyrics\Cosa mas Bella.xml</Ruta_Letra>
+    <Ruta_Cancion>C:\Documents and Settings\OEM System\Escritorio\MaresMediaPlayerKaraoke\Canciones\Yo Canto.mp3</Ruta_Cancion>
+  </Cancion>
+</ArrayOfCancion>

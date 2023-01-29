@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfCancion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cancion>
+    <Nombre>Viveme</Nombre>
+    <Artista>Laura Pausini</Artista>
+    <Genero />
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>luis</Album>
+    <Ruta_Artista>D:\MaresMediaPlayerKaraoke\Artistas\Laura Pausini.jpg</Ruta_Artista>
+    <Ruta_Disco>D:\MaresMediaPlayerKaraoke\Caratulas\Entre tu y mil Mares.jpg</Ruta_Disco>
+    <Ruta_Letra>D:\MaresMediaPlayerKaraoke\Lyrics\LyricDefault.xml</Ruta_Letra>
+    <Ruta_Cancion>D:\Viveme.mp3</Ruta_Cancion>
+    <Ruta_Biografia>D:\MaresMediaPlayerKaraoke\Biografias\Laura Pausini.txt</Ruta_Biografia>
+  </Cancion>
+</ArrayOfCancion>

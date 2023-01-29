@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<ArrayOfCancion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cancion>
+    <Nombre>Eros Ramazzotti - La Cosa Mas Bella</Nombre>
+    <Artista>Eros Ramazzotti</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>Alas y Raices</Album>
+    <Ruta_Artista>E:\MaresMediaPlayerKaraoke\Artistas\Eros Ramazzotti.jpg</Ruta_Artista>
+    <Ruta_Disco>E:\MaresMediaPlayerKaraoke\Caratulas\Alas y Raices.jpg</Ruta_Disco>
+    <Ruta_Letra>E:\MaresMediaPlayerKaraoke\Lyrics\Cosa mas Bella.xml</Ruta_Letra>
+    <Ruta_Cancion>E:\MaresMediaPlayerKaraoke\Canciones\Eros Ramazzotti - La Cosa Mas Bella.mp3</Ruta_Cancion>
+  </Cancion>
+</ArrayOfCancion>

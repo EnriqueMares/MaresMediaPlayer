@@ -1,0 +1,283 @@
+<?xml version="1.0"?>
+<ArrayOfCancion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cancion>
+    <Nombre>Entre Tu Y 1000 Mares</Nombre>
+    <Artista>Laura Pausini</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>Entre tu y mil Mares</Album>
+    <Ruta_Artista>E:\MaresMediaPlayerKaraoke\Artistas\Laura Pausini.jpg</Ruta_Artista>
+    <Ruta_Disco>E:\MaresMediaPlayerKaraoke\Caratulas\Entre tu y mil Mares.jpg</Ruta_Disco>
+    <Ruta_Letra>E:\MaresMediaPlayerKaraoke\Lyrics\Entre tu y mil mares.xml</Ruta_Letra>
+    <Ruta_Cancion>E:\MaresMediaPlayerKaraoke\Canciones\Entre Tu Y 1000 Mares.mp3</Ruta_Cancion>
+    <Ruta_Biografia>E:\MaresMediaPlayerKaraoke\Biografias\Laura Pausini.txt</Ruta_Biografia>
+  </Cancion>
+  <Cancion>
+    <Nombre>Escucha A Tu Corazon</Nombre>
+    <Artista>Laura Pausini</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>Las cosas que Vives</Album>
+    <Ruta_Artista>E:\MaresMediaPlayerKaraoke\Artistas\Laura Pausini.jpg</Ruta_Artista>
+    <Ruta_Disco>E:\MaresMediaPlayerKaraoke\Caratulas\Las cosas que Vives.jpg</Ruta_Disco>
+    <Ruta_Letra>E:\MaresMediaPlayerKaraoke\Lyrics\Escucha a tu corazon.xml</Ruta_Letra>
+    <Ruta_Cancion>E:\MaresMediaPlayerKaraoke\Canciones\Escucha A Tu Corazon.mp3</Ruta_Cancion>
+    <Ruta_Biografia>E:\MaresMediaPlayerKaraoke\Biografias\Laura Pausini.txt</Ruta_Biografia>
+  </Cancion>
+  <Cancion>
+    <Nombre>_Alejandro Sanz_ Dime  </Nombre>
+    <Artista>Laura Pausini</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>Lo Mejor de Laura Pausini</Album>
+    <Ruta_Artista>E:\MaresMediaPlayerKaraoke\Artistas\Laura Pausini.jpg</Ruta_Artista>
+    <Ruta_Disco>E:\MaresMediaPlayerKaraoke\Caratulas\Lo Mejor de Laura Pausini.jpg</Ruta_Disco>
+    <Ruta_Letra>E:\MaresMediaPlayerKaraoke\Lyrics\Dime.xml</Ruta_Letra>
+    <Ruta_Cancion>E:\MaresMediaPlayerKaraoke\Canciones\_Alejandro Sanz_ Dime  .mp3</Ruta_Cancion>
+    <Ruta_Biografia>E:\MaresMediaPlayerKaraoke\Biografias\Laura Pausini.txt</Ruta_Biografia>
+  </Cancion>
+  <Cancion>
+    <Nombre>Viveme</Nombre>
+    <Artista>Laura Pausini</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>Live in Paris 05</Album>
+    <Ruta_Artista>E:\MaresMediaPlayerKaraoke\Artistas\Laura Pausini.jpg</Ruta_Artista>
+    <Ruta_Disco>E:\MaresMediaPlayerKaraoke\Caratulas\Live in Paris 05.jpg</Ruta_Disco>
+    <Ruta_Letra>E:\MaresMediaPlayerKaraoke\Lyrics\LyricDefault.xml</Ruta_Letra>
+    <Ruta_Cancion>E:\MaresMediaPlayerKaraoke\Canciones\Viveme.mp3</Ruta_Cancion>
+    <Ruta_Biografia>E:\MaresMediaPlayerKaraoke\Biografias\Laura Pausini.txt</Ruta_Biografia>
+  </Cancion>
+  <Cancion>
+    <Nombre>Las cosas que vives</Nombre>
+    <Artista>Laura Pausini</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>Las cosas que Vives</Album>
+    <Ruta_Artista>E:\MaresMediaPlayerKaraoke\Artistas\Laura Pausini.jpg</Ruta_Artista>
+    <Ruta_Disco>E:\MaresMediaPlayerKaraoke\Caratulas\Las cosas que Vives.jpg</Ruta_Disco>
+    <Ruta_Letra>E:\MaresMediaPlayerKaraoke\Lyrics\Las cosas que vives.xml</Ruta_Letra>
+    <Ruta_Cancion>E:\MaresMediaPlayerKaraoke\Canciones\Las cosas que vives.mp3</Ruta_Cancion>
+    <Ruta_Biografia>E:\MaresMediaPlayerKaraoke\Biografias\Laura Pausini.txt</Ruta_Biografia>
+  </Cancion>
+  <Cancion>
+    <Nombre>Un Error De Los Grandes</Nombre>
+    <Artista>Laura Pausini</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>Las cosas que Vives</Album>
+    <Ruta_Artista>E:\MaresMediaPlayerKaraoke\Artistas\Laura Pausini.jpg</Ruta_Artista>
+    <Ruta_Disco>E:\MaresMediaPlayerKaraoke\Caratulas\Las cosas que Vives.jpg</Ruta_Disco>
+    <Ruta_Letra>E:\MaresMediaPlayerKaraoke\Lyrics\LyricDefault.xml</Ruta_Letra>
+    <Ruta_Cancion>E:\MaresMediaPlayerKaraoke\Canciones\Un Error De Los Grandes.mp3</Ruta_Cancion>
+    <Ruta_Biografia>E:\MaresMediaPlayerKaraoke\Biografias\Laura Pausini.txt</Ruta_Biografia>
+  </Cancion>
+  <Cancion>
+    <Nombre>_Marco Antonio Solis_ _Marc Anthony_ Amigo</Nombre>
+    <Artista>Laura Pausini</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>Amar sin Mentiras</Album>
+    <Ruta_Artista>E:\MaresMediaPlayerKaraoke\Artistas\Laura Pausini.jpg</Ruta_Artista>
+    <Ruta_Disco>E:\MaresMediaPlayerKaraoke\Caratulas\Amar sin Mentiras.jpg</Ruta_Disco>
+    <Ruta_Letra>E:\MaresMediaPlayerKaraoke\Lyrics\Amigo.xml</Ruta_Letra>
+    <Ruta_Cancion>E:\MaresMediaPlayerKaraoke\Canciones\_Marco Antonio Solis_ _Marc Anthony_ Amigo.mp3</Ruta_Cancion>
+    <Ruta_Biografia>E:\MaresMediaPlayerKaraoke\Biografias\Laura Pausini.txt</Ruta_Biografia>
+  </Cancion>
+  <Cancion>
+    <Nombre>Yo Canto</Nombre>
+    <Artista>Laura Pausini</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>Yo Canto</Album>
+    <Ruta_Artista>E:\MaresMediaPlayerKaraoke\Artistas\Laura Pausini.jpg</Ruta_Artista>
+    <Ruta_Disco>E:\MaresMediaPlayerKaraoke\Caratulas\Yo Canto.jpg</Ruta_Disco>
+    <Ruta_Letra>E:\MaresMediaPlayerKaraoke\Lyrics\LyricDefault.xml</Ruta_Letra>
+    <Ruta_Cancion>E:\MaresMediaPlayerKaraoke\Canciones\Yo Canto.mp3</Ruta_Cancion>
+    <Ruta_Biografia>E:\MaresMediaPlayerKaraoke\Biografias\Laura Pausini.txt</Ruta_Biografia>
+  </Cancion>
+  <Cancion>
+    <Nombre>Primavera Anticipada</Nombre>
+    <Artista>Laura Pausini</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>Primavera Anticipada</Album>
+    <Ruta_Artista>E:\MaresMediaPlayerKaraoke\Artistas\Laura Pausini.jpg</Ruta_Artista>
+    <Ruta_Disco>E:\MaresMediaPlayerKaraoke\Caratulas\Primavera Anticipada.jpg</Ruta_Disco>
+    <Ruta_Letra>E:\MaresMediaPlayerKaraoke\Lyrics\Primavera Anticipada.xml</Ruta_Letra>
+    <Ruta_Cancion>E:\MaresMediaPlayerKaraoke\Canciones\Primavera Anticipada.mp3</Ruta_Cancion>
+    <Ruta_Biografia>E:\MaresMediaPlayerKaraoke\Biografias\Laura Pausini.txt</Ruta_Biografia>
+  </Cancion>
+  <Cancion>
+    <Nombre>Dedicada Para Los Enamorados</Nombre>
+    <Artista>Eros Ramazzotti</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>En todos los Sentidos</Album>
+    <Ruta_Artista>E:\MaresMediaPlayerKaraoke\Artistas\Eros Ramazzotti.jpg</Ruta_Artista>
+    <Ruta_Disco>E:\MaresMediaPlayerKaraoke\Caratulas\En todos los Sentidos.jpg</Ruta_Disco>
+    <Ruta_Letra>E:\MaresMediaPlayerKaraoke\Lyrics\Dedicada para los enamorados.xml</Ruta_Letra>
+    <Ruta_Cancion>E:\MaresMediaPlayerKaraoke\Canciones\Dedicada Para Los Enamorados.mp3</Ruta_Cancion>
+    <Ruta_Biografia>E:\MaresMediaPlayerKaraoke\Biografias\Eros Ramazzotti.txt</Ruta_Biografia>
+  </Cancion>
+  <Cancion>
+    <Nombre>Fuego En El Fuego</Nombre>
+    <Artista>Eros Ramazzotti</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>Estilo Libre</Album>
+    <Ruta_Artista>E:\MaresMediaPlayerKaraoke\Artistas\Eros Ramazzotti.jpg</Ruta_Artista>
+    <Ruta_Disco>E:\MaresMediaPlayerKaraoke\Caratulas\Estilo Libre.jpg</Ruta_Disco>
+    <Ruta_Letra>E:\MaresMediaPlayerKaraoke\Lyrics\Fuego en el fuego.xml</Ruta_Letra>
+    <Ruta_Cancion>E:\MaresMediaPlayerKaraoke\Canciones\Fuego En El Fuego.mp3</Ruta_Cancion>
+    <Ruta_Biografia>E:\MaresMediaPlayerKaraoke\Biografias\Eros Ramazzotti.txt</Ruta_Biografia>
+  </Cancion>
+  <Cancion>
+    <Nombre>La Cosa Mas Bella</Nombre>
+    <Artista>Eros Ramazzotti</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>Donde hay Musica</Album>
+    <Ruta_Artista>E:\MaresMediaPlayerKaraoke\Artistas\Eros Ramazzotti.jpg</Ruta_Artista>
+    <Ruta_Disco>E:\MaresMediaPlayerKaraoke\Caratulas\Donde hay Musica.jpg</Ruta_Disco>
+    <Ruta_Letra>E:\MaresMediaPlayerKaraoke\Lyrics\La cosa mas bella.xml</Ruta_Letra>
+    <Ruta_Cancion>E:\MaresMediaPlayerKaraoke\Canciones\La Cosa Mas Bella.mp3</Ruta_Cancion>
+    <Ruta_Biografia>E:\MaresMediaPlayerKaraoke\Biografias\Eros Ramazzotti.txt</Ruta_Biografia>
+  </Cancion>
+  <Cancion>
+    <Nombre>Otra Como Tu</Nombre>
+    <Artista>Eros Ramazzotti</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>Donde hay Musica</Album>
+    <Ruta_Artista>E:\MaresMediaPlayerKaraoke\Artistas\Eros Ramazzotti.jpg</Ruta_Artista>
+    <Ruta_Disco>E:\MaresMediaPlayerKaraoke\Caratulas\Donde hay Musica.jpg</Ruta_Disco>
+    <Ruta_Letra>E:\MaresMediaPlayerKaraoke\Lyrics\Otra como tu.xml</Ruta_Letra>
+    <Ruta_Cancion>E:\MaresMediaPlayerKaraoke\Canciones\Otra Como Tu.mp3</Ruta_Cancion>
+    <Ruta_Biografia>E:\MaresMediaPlayerKaraoke\Biografias\Eros Ramazzotti.txt</Ruta_Biografia>
+  </Cancion>
+  <Cancion>
+    <Nombre>Un Angel No Es</Nombre>
+    <Artista>Eros Ramazzotti</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>Todo Historias</Album>
+    <Ruta_Artista>E:\MaresMediaPlayerKaraoke\Artistas\Eros Ramazzotti.jpg</Ruta_Artista>
+    <Ruta_Disco>E:\MaresMediaPlayerKaraoke\Caratulas\Todo Historias.jpg</Ruta_Disco>
+    <Ruta_Letra>E:\MaresMediaPlayerKaraoke\Lyrics\Un angel no es.xml</Ruta_Letra>
+    <Ruta_Cancion>E:\MaresMediaPlayerKaraoke\Canciones\Un Angel No Es.mp3</Ruta_Cancion>
+    <Ruta_Biografia>E:\MaresMediaPlayerKaraoke\Biografias\Eros Ramazzotti.txt</Ruta_Biografia>
+  </Cancion>
+  <Cancion>
+    <Nombre>A Medio Camino</Nombre>
+    <Artista>Eros Ramazzotti</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>Todo Historias</Album>
+    <Ruta_Artista>E:\MaresMediaPlayerKaraoke\Artistas\Eros Ramazzotti.jpg</Ruta_Artista>
+    <Ruta_Disco>E:\MaresMediaPlayerKaraoke\Caratulas\Todo Historias.jpg</Ruta_Disco>
+    <Ruta_Letra>E:\MaresMediaPlayerKaraoke\Lyrics\A medio Camino.xml</Ruta_Letra>
+    <Ruta_Cancion>E:\MaresMediaPlayerKaraoke\Canciones\A Medio Camino.mp3</Ruta_Cancion>
+    <Ruta_Biografia>E:\MaresMediaPlayerKaraoke\Biografias\Eros Ramazzotti.txt</Ruta_Biografia>
+  </Cancion>
+  <Cancion>
+    <Nombre>Dimelo a mi</Nombre>
+    <Artista>Eros Ramazzotti</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>Alas y Raices</Album>
+    <Ruta_Artista>E:\MaresMediaPlayerKaraoke\Artistas\Eros Ramazzotti.jpg</Ruta_Artista>
+    <Ruta_Disco>E:\MaresMediaPlayerKaraoke\Caratulas\Alas y Raices.jpg</Ruta_Disco>
+    <Ruta_Letra>E:\MaresMediaPlayerKaraoke\Lyrics\Dimelo a mi.xml</Ruta_Letra>
+    <Ruta_Cancion>E:\MaresMediaPlayerKaraoke\Canciones\Dimelo a mi.mp3</Ruta_Cancion>
+    <Ruta_Biografia>E:\MaresMediaPlayerKaraoke\Biografias\Eros Ramazzotti.txt</Ruta_Biografia>
+  </Cancion>
+  <Cancion>
+    <Nombre>Cancion para Ella</Nombre>
+    <Artista>Eros Ramazzotti</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>9</Album>
+    <Ruta_Artista>E:\MaresMediaPlayerKaraoke\Artistas\Eros Ramazzotti.jpg</Ruta_Artista>
+    <Ruta_Disco>E:\MaresMediaPlayerKaraoke\Caratulas\9.bmp</Ruta_Disco>
+    <Ruta_Letra>E:\MaresMediaPlayerKaraoke\Lyrics\Cancion para ella.xml</Ruta_Letra>
+    <Ruta_Cancion>E:\MaresMediaPlayerKaraoke\Canciones\Cancion para Ella.mp3</Ruta_Cancion>
+    <Ruta_Biografia>E:\MaresMediaPlayerKaraoke\Biografias\Eros Ramazzotti.txt</Ruta_Biografia>
+  </Cancion>
+  <Cancion>
+    <Nombre>Esta pasando Noviembre</Nombre>
+    <Artista>Eros Ramazzotti</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>E2</Album>
+    <Ruta_Artista>E:\MaresMediaPlayerKaraoke\Artistas\Eros Ramazzotti.jpg</Ruta_Artista>
+    <Ruta_Disco>E:\MaresMediaPlayerKaraoke\Caratulas\E2.jpg</Ruta_Disco>
+    <Ruta_Letra>E:\MaresMediaPlayerKaraoke\Lyrics\Esta pasando Noviembre.xml</Ruta_Letra>
+    <Ruta_Cancion>E:\MaresMediaPlayerKaraoke\Canciones\Esta pasando Noviembre.mp3</Ruta_Cancion>
+    <Ruta_Biografia>E:\MaresMediaPlayerKaraoke\Biografias\Eros Ramazzotti.txt</Ruta_Biografia>
+  </Cancion>
+  <Cancion>
+    <Nombre>Cuanto amor me das</Nombre>
+    <Artista>Eros Ramazzotti</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>Eros</Album>
+    <Ruta_Artista>E:\MaresMediaPlayerKaraoke\Artistas\Eros Ramazzotti.jpg</Ruta_Artista>
+    <Ruta_Disco>E:\MaresMediaPlayerKaraoke\Caratulas\Eros.jpg</Ruta_Disco>
+    <Ruta_Letra>E:\MaresMediaPlayerKaraoke\Lyrics\Cuanto amor me das.xml</Ruta_Letra>
+    <Ruta_Cancion>E:\MaresMediaPlayerKaraoke\Canciones\Cuanto amor me das.mp3</Ruta_Cancion>
+    <Ruta_Biografia>E:\MaresMediaPlayerKaraoke\Biografias\Eros Ramazzotti.txt</Ruta_Biografia>
+  </Cancion>
+  <Cancion>
+    <Nombre>_Eros Ramazzotti_A Ti</Nombre>
+    <Artista>Eros Ramazzotti</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>Quien Dijo Ayer</Album>
+    <Ruta_Artista>E:\MaresMediaPlayerKaraoke\Artistas\Eros Ramazzotti.jpg</Ruta_Artista>
+    <Ruta_Disco>E:\MaresMediaPlayerKaraoke\Caratulas\Quien Dijo Ayer.jpg</Ruta_Disco>
+    <Ruta_Letra>E:\MaresMediaPlayerKaraoke\Lyrics\A ti.xml</Ruta_Letra>
+    <Ruta_Cancion>E:\MaresMediaPlayerKaraoke\Canciones\_Eros Ramazzotti_A Ti.mp3</Ruta_Cancion>
+    <Ruta_Biografia>E:\MaresMediaPlayerKaraoke\Biografias\Eros Ramazzotti.txt</Ruta_Biografia>
+  </Cancion>
+</ArrayOfCancion>

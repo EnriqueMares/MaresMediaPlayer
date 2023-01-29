@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<ArrayOfCancion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cancion>
+    <Nombre>Eros Ramazzotti - La Cosa Mas Bella</Nombre>
+    <Artista>Eros Ramazzotti</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>Alas y Raices</Album>
+    <Ruta_Artista>F:\MaresMediaPlayerKaraoke\Artistas\Eros Ramazzotti.jpg</Ruta_Artista>
+    <Ruta_Disco>F:\MaresMediaPlayerKaraoke\Caratulas\Alas y Raices.jpg</Ruta_Disco>
+    <Ruta_Letra>F:\MaresMediaPlayerKaraoke\Lyrics\Cosa mas Bella.xml</Ruta_Letra>
+    <Ruta_Cancion>F:\MaresMediaPlayerKaraoke\Canciones\Eros Ramazzotti - La Cosa Mas Bella.mp3</Ruta_Cancion>
+  </Cancion>
+  <Cancion>
+    <Nombre>Eros Ramazzotti - Fuego En El Fuego</Nombre>
+    <Artista>Eros Ramazzotti</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>E2</Album>
+    <Ruta_Artista>F:\MaresMediaPlayerKaraoke\Artistas\Eros Ramazzotti.jpg</Ruta_Artista>
+    <Ruta_Disco>F:\MaresMediaPlayerKaraoke\Caratulas\E2.jpg</Ruta_Disco>
+    <Ruta_Letra>F:\MaresMediaPlayerKaraoke\Lyrics\Cosa mas Bella.xml</Ruta_Letra>
+    <Ruta_Cancion>F:\MaresMediaPlayerKaraoke\Canciones\Eros Ramazzotti - Fuego En El Fuego.mp3</Ruta_Cancion>
+  </Cancion>
+  <Cancion>
+    <Nombre>Yo Canto</Nombre>
+    <Artista>Laura Pausini</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>Entre tu y mil Mares</Album>
+    <Ruta_Artista>F:\MaresMediaPlayerKaraoke\Artistas\Laura Pausini.jpg</Ruta_Artista>
+    <Ruta_Disco>F:\MaresMediaPlayerKaraoke\Caratulas\Entre tu y mil Mares.jpg</Ruta_Disco>
+    <Ruta_Letra>F:\MaresMediaPlayerKaraoke\Lyrics\Cosa mas Bella.xml</Ruta_Letra>
+    <Ruta_Cancion>F:\MaresMediaPlayerKaraoke\Canciones\Yo Canto.mp3</Ruta_Cancion>
+  </Cancion>
+</ArrayOfCancion>

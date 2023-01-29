@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Cancion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Canciones>
+		<Nombre>Entre tu y mil Mares</Nombre>
+		<Artista>Laura Pausini</Artista>
+		<Genero>Balada</Genero>
+		<Minutos>3</Minutos>
+		<Segundos>48</Segundos>
+		<Duracion_seg>228</Duracion_seg>
+		<Album>Entre tu y mil Mares</Album>
+		<Ruta__Artista>Laura Pausini</Ruta__Artista>
+		<Ruta__Disco>Entre tu y mil Mares</Ruta__Disco>
+		<Ruta__Letra>Entre tu y mil mares</Ruta__Letra>
+	</Canciones>
+	<Canciones>
+		<Nombre>Escucha a tu Corazon</Nombre>
+		<Artista>Laura Pausini</Artista>
+		<Genero>Balada</Genero>
+		<Minutos>4</Minutos>
+		<Segundos>39</Segundos>
+		<Duracion_seg>279</Duracion_seg>
+		<Album>Las cosas que Vives</Album>
+		<Ruta__Artista>Laura Pausini</Ruta__Artista>
+		<Ruta__Disco>Las cosas que Vives</Ruta__Disco>
+		<Ruta__Letra>Las Cosas Que Vives</Ruta__Letra>
+	</Canciones>
+	<Canciones>
+		<Nombre>&lt;Alejandro Sanz&gt;  Dime</Nombre>
+		<Artista>Laura Pausini</Artista>
+		<Genero>Balada</Genero>
+		<Minutos>3</Minutos>
+		<Segundos>35</Segundos>
+		<Duracion_seg>215</Duracion_seg>
+		<Album>Lo Mejor de Laura Pausini</Album>
+		<Ruta__Artista>Laura Pausini</Ruta__Artista>
+		<Ruta__Disco>Lo Mejor de Laura Pausini</Ruta__Disco>
+		<Ruta__Letra>Dime</Ruta__Letra>
+	</Canciones>
+	<Canciones>
+		<Nombre>Viveme</Nombre>
+		<Artista>Laura Pausini</Artista>
+		<Genero>Balada</Genero>
+		<Minutos>3</Minutos>
+		<Segundos>46</Segundos>
+		<Duracion_seg>226</Duracion_seg>
+		<Album>Live in Paris 05</Album>
+		<Ruta__Artista>Laura Pausini</Ruta__Artista>
+		<Ruta__Disco>Live in Paris 05</Ruta__Disco>
+		<Ruta__Letra>Viveme</Ruta__Letra>
+	</Canciones>
+	<Canciones>
+		<Nombre>Las Cosas que vives</Nombre>
+		<Artista>Laura Pausini</Artista>
+		<Genero>Balada</Genero>
+		<Minutos>4</Minutos>
+		<Segundos>31</Segundos>
+		<Duracion_seg>271</Duracion_seg>
+		<Album>Las cosas que Vives</Album>
+		<Ruta__Artista>Laura Pausini</Ruta__Artista>
+		<Ruta__Disco>Las cosas que Vives</Ruta__Disco>
+		<Ruta__Letra>Las Cosas Que Vives</Ruta__Letra>
+	</Canciones>
+	<Canciones>
+		<Nombre>Un Error de los Grandes</Nombre>
+		<Artista>Laura Pausini</Artista>
+		<Genero>Balada</Genero>
+		<Minutos>3</Minutos>
+		<Segundos>6</Segundos>
+		<Duracion_seg>186</Duracion_seg>
+		<Album>Entre tu y mil Mares</Album>
+		<Ruta__Artista>Laura Pausini</Ruta__Artista>
+		<Ruta__Disco>Entre tu y mil Mares</Ruta__Disco>
+		<Ruta__Letra>Un Error de los Grandes</Ruta__Letra>
+	</Canciones>
+	<Canciones>
+		<Nombre>Se Fue</Nombre>
+		<Artista>Laura Pausini</Artista>
+		<Genero>Balada</Genero>
+		<Minutos>4</Minutos>
+		<Segundos>38</Segundos>
+		<Duracion_seg>278</Duracion_seg>
+		<Album>Live in Paris 05</Album>
+		<Ruta__Artista>Laura Pausini</Ruta__Artista>
+		<Ruta__Disco>Live in Paris 05</Ruta__Disco>
+		<Ruta__Letra>Se Fue</Ruta__Letra>
+	</Canciones>
+	<Canciones>
+		<Nombre>&lt;Marco Antonio Solis&gt; &lt;Marc Anthony&gt; Amigo</Nombre>
+		<Artista>Laura Pausini</Artista>
+		<Genero>Balada</Genero>
+		<Minutos>5</Minutos>
+		<Segundos>46</Segundos>
+		<Duracion_seg>346</Duracion_seg>
+		<Album>Amar sin Mentiras (Marc Anthony)</Album>
+		<Ruta__Artista>Laura Pausini</Ruta__Artista>
+		<Ruta__Disco>Amar sin Mentiras (Marc Anthony)</Ruta__Disco>
+		<Ruta__Letra>Amigo</Ruta__Letra>
+	</Canciones>
+	<Canciones>
+		<Nombre>Yo Canto</Nombre>
+		<Artista>Laura Pausini</Artista>
+		<Genero>Balada</Genero>
+		<Minutos>4</Minutos>
+		<Segundos>24</Segundos>
+		<Duracion_seg>264</Duracion_seg>
+		<Album>Yo Canto</Album>
+		<Ruta__Artista>Laura Pausini</Ruta__Artista>
+		<Ruta__Disco>Yo Canto</Ruta__Disco>
+		<Ruta__Letra>Yo Canto</Ruta__Letra>
+	</Canciones>
+	<Canciones>
+		<Nombre>&lt;James Blunt&gt; Primavera Anticipada</Nombre>
+		<Artista>Laura Pausini</Artista>
+		<Genero>Balada</Genero>
+		<Minutos>3</Minutos>
+		<Segundos>38</Segundos>
+		<Duracion_seg>218</Duracion_seg>
+		<Album>Primavera Anticipada</Album>
+		<Ruta__Artista>Laura Pausini</Ruta__Artista>
+		<Ruta__Disco>Primavera Anticipada</Ruta__Disco>
+		<Ruta__Letra>Primavera Anticipada</Ruta__Letra>
+	</Canciones>
+	<Canciones>
+		<Nombre>Dedicada para los Enamorados</Nombre>
+		<Artista>Eros Ramazzotti</Artista>
+		<Genero>Balada</Genero>
+		<Minutos>5</Minutos>
+		<Segundos>21</Segundos>
+		<Duracion_seg>321</Duracion_seg>
+		<Album>En todos los Sentidos</Album>
+		<Ruta__Artista>Eros Ramazzotti</Ruta__Artista>
+		<Ruta__Disco>En todos los Sentidos</Ruta__Disco>
+		<Ruta__Letra>Dedicada para los Enamorados</Ruta__Letra>
+	</Canciones>
+	<Canciones>
+		<Nombre>Fuego en el Fuego</Nombre>
+		<Artista>Eros Ramazzotti</Artista>
+		<Genero>Balada</Genero>
+		<Minutos>4</Minutos>
+		<Segundos>2</Segundos>
+		<Duracion_seg>242</Duracion_seg>
+		<Album>Estilo Libre</Album>
+		<Ruta__Artista>Eros Ramazzotti</Ruta__Artista>
+		<Ruta__Disco>Estilo Libre</Ruta__Disco>
+		<Ruta__Letra>Fuego en el Fuego</Ruta__Letra>
+	</Canciones>
+	<Canciones>
+		<Nombre>La cosa mas Bella</Nombre>
+		<Artista>Eros Ramazzotti</Artista>
+		<Genero>Balada</Genero>
+		<Minutos>4</Minutos>
+		<Segundos>25</Segundos>
+		<Duracion_seg>265</Duracion_seg>
+		<Album>Donde hay Musica</Album>
+		<Ruta__Artista>Eros Ramazzotti</Ruta__Artista>
+		<Ruta__Disco>Donde hay Musica</Ruta__Disco>
+		<Ruta__Letra>La Cosa mas Bella</Ruta__Letra>
+	</Canciones>
+	<Canciones>
+		<Nombre>Otra como tu</Nombre>
+		<Artista>Eros Ramazzotti</Artista>
+		<Genero>Balada</Genero>
+		<Minutos>4</Minutos>
+		<Segundos>40</Segundos>
+		<Duracion_seg>280</Duracion_seg>
+		<Album>Todo Historias</Album>
+		<Ruta__Artista>Eros Ramazzotti</Ruta__Artista>
+		<Ruta__Disco>Todo Historias</Ruta__Disco>
+		<Ruta__Letra>Otra como tu</Ruta__Letra>
+	</Canciones>
+	<Canciones>
+		<Nombre>Un Angel no es</Nombre>
+		<Artista>Eros Ramazzotti</Artista>
+		<Genero>Balada</Genero>
+		<Minutos>3</Minutos>
+		<Segundos>59</Segundos>
+		<Duracion_seg>239</Duracion_seg>
+		<Album>Estilo Libre</Album>
+		<Ruta__Artista>Eros Ramazzotti</Ruta__Artista>
+		<Ruta__Disco>Estilo Libre</Ruta__Disco>
+		<Ruta__Letra>Un Angel No es</Ruta__Letra>
+	</Canciones>
+	<Canciones>
+		<Nombre>A medio camino</Nombre>
+		<Artista>Eros Ramazzotti</Artista>
+		<Genero>Balada</Genero>
+		<Minutos>5</Minutos>
+		<Segundos>48</Segundos>
+		<Duracion_seg>348</Duracion_seg>
+		<Album>Todo Historias</Album>
+		<Ruta__Artista>Eros Ramazzotti</Ruta__Artista>
+		<Ruta__Disco>Todo Historias</Ruta__Disco>
+		<Ruta__Letra>A medio Camino</Ruta__Letra>
+	</Canciones>
+	<Canciones>
+		<Nombre>Dimelo a mi</Nombre>
+		<Artista>Eros Ramazzotti</Artista>
+		<Genero>Balada</Genero>
+		<Minutos>4</Minutos>
+		<Segundos>0</Segundos>
+		<Duracion_seg>240</Duracion_seg>
+		<Album>Alas y Raices</Album>
+		<Ruta__Artista>Eros Ramazzotti</Ruta__Artista>
+		<Ruta__Disco>Alas y Raices</Ruta__Disco>
+		<Ruta__Letra>Dimelo a Mi</Ruta__Letra>
+	</Canciones>
+	<Canciones>
+		<Nombre>Cancion para Ella</Nombre>
+		<Artista>Eros Ramazzotti</Artista>
+		<Genero>Balada</Genero>
+		<Minutos>3</Minutos>
+		<Segundos>47</Segundos>
+		<Duracion_seg>227</Duracion_seg>
+		<Album>9</Album>
+		<Ruta__Artista>Eros Ramazzotti</Ruta__Artista>
+		<Ruta__Disco>9</Ruta__Disco>
+		<Ruta__Letra>Cancion para Ella</Ruta__Letra>
+	</Canciones>
+	<Canciones>
+		<Nombre>&lt;Amalia Montero&gt; Esta pasando Noviembre</Nombre>
+		<Artista>Eros Ramazzotti</Artista>
+		<Genero>Balada</Genero>
+		<Minutos>4</Minutos>
+		<Segundos>13</Segundos>
+		<Duracion_seg>253</Duracion_seg>
+		<Album>E2</Album>
+		<Ruta__Artista>Eros Ramazzotti</Ruta__Artista>
+		<Ruta__Disco>E2</Ruta__Disco>
+		<Ruta__Letra>Esta Pasando Noviembre</Ruta__Letra>
+	</Canciones>
+	<Canciones>
+		<Nombre>Cuanto amor me das</Nombre>
+		<Artista>Eros Ramazzotti</Artista>
+		<Genero>Balada</Genero>
+		<Minutos>4</Minutos>
+		<Segundos>16</Segundos>
+		<Duracion_seg>256</Duracion_seg>
+		<Album>Eros</Album>
+		<Ruta__Artista>Eros Ramazzotti</Ruta__Artista>
+		<Ruta__Disco>Eros</Ruta__Disco>
+		<Ruta__Letra>Cuanto amor me Das</Ruta__Letra>
+	</Canciones>
+	<Canciones>
+		<Nombre>&lt;Ricardo Arjona&gt; A ti</Nombre>
+		<Artista>Eros Ramazzotti</Artista>
+		<Genero>Balada</Genero>
+		<Minutos>4</Minutos>
+		<Segundos>48</Segundos>
+		<Duracion_seg>288</Duracion_seg>
+		<Album>Quien Dijo Ayer (Ricardo Arjona)</Album>
+		<Ruta__Artista>Eros Ramazzotti</Ruta__Artista>
+		<Ruta__Disco>Quien Dijo Ayer (Ricardo Arjona)</Ruta__Disco>
+		<Ruta__Letra>A Ti</Ruta__Letra>
+	</Canciones>
+</Cancion>

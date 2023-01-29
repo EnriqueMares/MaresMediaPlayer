@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfCancion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cancion>
+    <Nombre>Eros Ramazzotti - La Cosa Mas Bella</Nombre>
+    <Artista>Eros Ramazzotti</Artista>
+    <Genero>Balada</Genero>
+    <Minutos>0</Minutos>
+    <Segundos>0</Segundos>
+    <Duracion>0</Duracion>
+    <Album>Calma Aparente</Album>
+    <Ruta_Artista>E:\MaresMediaPlayerKaraoke\Artistas\Eros Ramazzotti.jpg</Ruta_Artista>
+    <Ruta_Disco>E:\MaresMediaPlayerKaraoke\Caratulas\Calma Aparente.jpg</Ruta_Disco>
+    <Ruta_Letra>C:\Documents and Settings\TEC\Escritorio\Cosa mas Bella.xml</Ruta_Letra>
+  </Cancion>
+</ArrayOfCancion>

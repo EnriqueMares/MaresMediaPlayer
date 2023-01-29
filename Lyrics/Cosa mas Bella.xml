@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfLetra xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+		<Letra>
+			<Minuto>0</Minuto>
+			<Segundo>18</Segundo>
+			<CentiSegundo>82</CentiSegundo>
+			<Segundos>18</Segundos>
+			<LetraCancion>Como comenzamos yo no lo se la historia que no tiene fin </LetraCancion>
+		</Letra>
+		<Letra>
+			<Minuto>0</Minuto>
+			<Segundo>27</Segundo>
+			<CentiSegundo>33</CentiSegundo>
+			<Segundos>27</Segundos>
+			<LetraCancion>ni como llegaste a ser la mujer </LetraCancion>
+		</Letra>
+		<Letra>
+			<Minuto>0</Minuto>
+			<Segundo>31</Segundo>
+			<CentiSegundo>45</CentiSegundo>
+			<Segundos>31</Segundos>
+			<LetraCancion>que toda la vida pedi </LetraCancion>
+		</Letra>
+		<Letra>
+			<Minuto>0</Minuto>
+			<Segundo>36</Segundo>
+			<CentiSegundo>13</CentiSegundo>
+			<Segundos>36</Segundos>
+			<LetraCancion>contigo hace falta pasion </LetraCancion>
+		</Letra>
+		<Letra>
+			<Minuto>0</Minuto>
+			<Segundo>41</Segundo>
+			<CentiSegundo>51</CentiSegundo>
+			<Segundos>41</Segundos>
+			<LetraCancion>y un toque de poesia </LetraCancion>
+		</Letra>
+		<Letra>
+			<Minuto>0</Minuto>
+			<Segundo>44</Segundo>
+			<CentiSegundo>78</CentiSegundo>
+			<Segundos>44</Segundos>
+			<LetraCancion>y sabiduria pues yo trabajo con fantasias </LetraCancion>		
+	</Letra>
+		<Letra>
+			<Minuto>0</Minuto>
+			<Segundo>53</Segundo>
+			<CentiSegundo>33</CentiSegundo>
+			<Segundos>53</Segundos>
+			<LetraCancion>recuerdas el dia que te cante </LetraCancion>
+		</Letra>
+		<Letra>
+			<Minuto>0</Minuto>
+			<Segundo>57</Segundo>
+			<CentiSegundo>94</CentiSegundo>
+			<Segundos>57</Segundos>
+			<LetraCancion>fue un subito escalofrio </LetraCancion>
+		</Letra>
+		<Letra>
+			<Minuto>1</Minuto>
+			<Segundo>2</Segundo>
+			<CentiSegundo>0</CentiSegundo>
+			<Segundos>62</Segundos>
+			<LetraCancion>por si no lo sabes te lo dire </LetraCancion>
+		</Letra>
+		<Letra>
+			<Minuto>1</Minuto>
+			<Segundo>6</Segundo>
+			<CentiSegundo>57</CentiSegundo>
+			<Segundos>66</Segundos>
+			<LetraCancion>yo nunca deje de sentirlo </LetraCancion>
+		</Letra>
+		<Letra>
+			<Minuto>1</Minuto>
+			<Segundo>10</Segundo>
+			<CentiSegundo>90</CentiSegundo>
+			<Segundos>70</Segundos>
+			<LetraCancion>contigo hace falta pasion </LetraCancion>
+		</Letra>
+</ArrayOfLetra>
